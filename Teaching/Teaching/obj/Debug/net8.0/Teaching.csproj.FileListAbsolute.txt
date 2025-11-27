@@ -1,0 +1,14 @@
+C:\Users\adot4\source\repos\Teaching\Teaching\bin\Debug\net8.0\Teaching.exe
+C:\Users\adot4\source\repos\Teaching\Teaching\bin\Debug\net8.0\Teaching.deps.json
+C:\Users\adot4\source\repos\Teaching\Teaching\bin\Debug\net8.0\Teaching.runtimeconfig.json
+C:\Users\adot4\source\repos\Teaching\Teaching\bin\Debug\net8.0\Teaching.dll
+C:\Users\adot4\source\repos\Teaching\Teaching\bin\Debug\net8.0\Teaching.pdb
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.AssemblyInfoInputs.cache
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.AssemblyInfo.cs
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.csproj.CoreCompileInputs.cache
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.dll
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\refint\Teaching.dll
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.pdb
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\Teaching.genruntimeconfig.cache
+C:\Users\adot4\source\repos\Teaching\Teaching\obj\Debug\net8.0\ref\Teaching.dll
